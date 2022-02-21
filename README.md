@@ -1,4 +1,4 @@
-# kafka-example
+# kafka-example - with Kotlin and Spring Boot
 
 ## 1 - Executar o arquivo docker compose no diretório /docker:
 
