@@ -8,3 +8,7 @@
 
 ## 2- Start da aplicação Spring Boot
 
+  `Run ExampleKafkaApplication`
+  
+### Após Start da aplicação serão enviados 10000 msgs para o tópico, e consequentemente serão consumidos
+
