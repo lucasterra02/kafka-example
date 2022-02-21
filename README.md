@@ -10,5 +10,5 @@
 
   `Run ExampleKafkaApplication`
   
-### Após Start da aplicação serão enviados 10000 msgs para o tópico, e consequentemente serão consumidos
+#### Após Start da aplicação serão enviados 10000 msgs para o tópico `topic_example`. e consequentemente serão consumidos
 
