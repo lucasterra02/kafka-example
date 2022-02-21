@@ -4,5 +4,7 @@
 
 ```sudo docker-compose -f kafka_kafkadrop_zookeeper.yml up```
 
+   1.1 - Kafka Drop: `http://localhost:19000`
+
 ## 2- Start da aplicação Spring Boot
 
