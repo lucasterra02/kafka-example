@@ -1,12 +1,12 @@
 # kafka-example
 
-## 1- Executar o arquivo docker compose no diretório /docker:
+## 1 - Executar o arquivo docker compose no diretório /docker:
 
 ```sudo docker-compose -f kafka_kafkadrop_zookeeper.yml up```
 
    1.1 - Kafka Drop: `http://localhost:19000`
 
-## 2- Start da aplicação Spring Boot
+## 2 - Start da aplicação Spring Boot
 
   `Run ExampleKafkaApplication`
   
